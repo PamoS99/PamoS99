@@ -2,7 +2,7 @@
 <h3 align="center">🦾 An Energetic Mechatronic Engineering Undergrad 🎓</h3>
 
 - Is passionate About  .  .  .
-  <h4 align="center">ROBOTICS AND AUTOMATION 👾</h4>
+  <h4 align="center">ROBOTICS & AUTOMATION 👾</h4>
   <h4 align="center">MACHINE LEARNING & AI 🧩</h4>
   <h4 align="center">PROGRAMMING 👩🏽‍💻</h4>
 
